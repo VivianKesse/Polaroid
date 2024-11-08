@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu projeto fictício do site da Polaroid:
-
----
-
 # Polaroid - Website Fictício
 
 Este é um projeto fictício de site para a marca Polaroid, desenvolvido como parte do portfólio pessoal e teste técnico para uma vaga. O site explora o conceito de nostalgia e instantaneidade, característicos dos produtos Polaroid, e foi projetado para oferecer uma experiência visual e interativa aos usuários.
