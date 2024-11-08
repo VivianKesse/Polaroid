@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+:root {
+    --red: #ff0000;
+    --orange: #ff8200;
+    --yellow: #ffb500;
+    --green: #78be20;
+    --blue: #198cd9;
+    --dark: #0e0e0e;
+    --light: #fafafa;
+    --purple: #9c4280;
+    --gradiente: linear-gradient(
+        90deg,
+        rgba(255, 0, 0, 1) 0%,
+        rgba(255, 130, 0, 1) 29%,
+        rgba(255, 181, 0, 1) 47%,
+        rgba(120, 190, 32, 1) 66%,
+        rgba(25, 140, 217, 1) 100%
+    );
+}
+
+body {
+    height: calc(100vh - 70px);
+    background-color: var(--light);
+    font-family: "Ubuntu", sans-serif;
+}
